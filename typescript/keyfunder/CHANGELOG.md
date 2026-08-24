@@ -1,5 +1,17 @@
 # @hyperlane-xyz/keyfunder
 
+## 0.1.47
+
+### Patch Changes
+
+- Updated dependencies [0848474]
+- Updated dependencies [a00b342]
+  - @hyperlane-xyz/sdk@42.1.0
+  - @hyperlane-xyz/metrics@0.2.40
+  - @hyperlane-xyz/utils@42.1.0
+  - @hyperlane-xyz/core@12.1.0
+  - @hyperlane-xyz/tron-sdk@24.2.1
+
 ## 0.1.46
 
 ### Patch Changes

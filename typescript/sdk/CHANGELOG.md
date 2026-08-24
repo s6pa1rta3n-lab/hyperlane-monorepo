@@ -1,5 +1,24 @@
 # @hyperlane-xyz/sdk
 
+## 42.1.0
+
+### Minor Changes
+
+- 0848474: Added safe recovery for address-bearing hook trees. Recovered pausable hooks and ISMs can transfer ownership without redeployment, while recovery validates the complete tree before mutation, preserves live pause state, and rejects incorrect contract types or conflicting aliases.
+
+### Patch Changes
+
+- a00b342: Pausable ISMs now respect the configured `paused` state. Signer-owned changes are applied directly; all others are returned as transactions.
+  - @hyperlane-xyz/aleo-sdk@42.1.0
+  - @hyperlane-xyz/starknet-core@42.1.0
+  - @hyperlane-xyz/cosmos-sdk@42.1.0
+  - @hyperlane-xyz/radix-sdk@42.1.0
+  - @hyperlane-xyz/utils@42.1.0
+  - @hyperlane-xyz/deploy-sdk@8.1.4
+  - @hyperlane-xyz/core@12.1.0
+  - @hyperlane-xyz/provider-sdk@8.1.4
+  - @hyperlane-xyz/tron-sdk@24.2.1
+
 ## 42.0.0
 
 ### Major Changes
