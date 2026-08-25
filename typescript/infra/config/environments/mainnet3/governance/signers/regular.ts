@@ -21,11 +21,11 @@ export const regularSvmSigners: Address[] = [
   '3c5oFeqTRDXUkTcaxCMS2jsHWAkvUi4treoMBCP1aUPo', // 3
   '4ocDADfUkH6qSMBGV977rPJEvmFxiG1MSmBbKwMUX9Ya', // 4
   'FwHF7jDNvuwCuYhBCZZPY1VBoBVSHPsVBqu7UCp7dnA3', // 5
-  '8V5Uu7xMQhaUcD6pzNReVzrSe89KMCXoGk7ErbkXik2b', // 6
+  'Fd4r3nmAAPaE4aKPVwbN5wzkYeaWSrBsmyUVUw4akPhB', // 6
   'A4voX3UC3TGLsKyEsDGWAvrjT3mpnA67Fx9cccdoPKqm', // 7
   'Cstnx15y98NCnjXddxEcgpJrW44TFYq9QSXYcdmfW4HR', // 8
   'DqGAc8YvHUPnpA5cuausLhkCp1cUvEQFYjpWVHJTPiNM', // 9
-  'EpaKfP4sd2xhEQvnYS3EgCXj7rkg7jTCasTByFj8kuLg', // 10
+  '4iD9PdZ3z5HYSJjyNDCXRyeMKuEmgqpuYTMtZEYXw9Lr', // 10
   'AkS7VvW2fX7JX9JKgAWvSkFQ84mn9WS6pJFKayYNNSDc', // 11
 ];
 
